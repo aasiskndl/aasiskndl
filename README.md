@@ -1,36 +1,73 @@
-# 🌌 Welcome to My Digital Universe! I'm Aashish Kandel! 🚀
+# Hello and Welcome 👋, I'm Aashish Kandel
 
-Hey there! I'm a tech explorer from the vibrant streets of **Kathmandu, Nepal**, weaving code into captivating web experiences and unlocking insights with AI. As a final-semester **BSc. CSIT** student at Lumbini ICT Campus, I’m fueled by a passion for **Frontend Development**, **Machine Learning**, and **Data Wizardry**. My mission? To craft digital solutions that are as functional as they are beautiful! ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect!-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/aashish-kandel47)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20World-FF6F61?logo=firefox-browser&style=for-the-badge)](https://aashish47.com.np)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?logo=gmail&style=for-the-badge)](mailto:aashishkandel90@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Star%20My%20Code-181717?logo=github&style=for-the-badge)](https://github.com/aasiskndl)
+---
 
-## 🌟 Who Am I?
-- 🎓 Wrapping up my **BSc. Computer Science & IT** (2025) with a 3.20/4 CGPA
-- 🖥️ **Frontend Alchemist**: Spinning sleek, responsive UIs with **React.js**, **Tailwind CSS**, and modern **JavaScript (ES6+)**
-- 🧠 **AI Trailblazer**: Building intelligent systems with **Python**, **NLP**, and **Machine Learning** to solve real-world problems
-- ☁️ **Tech Adventurer**: Diving into **Docker**, **Azure**, and cutting-edge tools to stay on the bleeding edge
-- 🌍 Explore my world: [Portfolio](https://aashish47.com.np) | [GitHub](https://github.com/aasiskndl) | [LinkedIn](https://linkedin.com/in/aashish-kandel47)
+## 🚀 About Me
+- 🎓 **BSc. CSIT** @ Lumbini ICT Campus (Final semester; CGPA: 3.20/4 expected)
+- 💼 **Frontend Dev Intern** @ Matrika Technology (Feb 2025 – May 2025)
+- 🤖 **Machine Learning Enthusiast** building NLP & DL solutions
+- 🌱 Currently exploring **Clean Architecture** in MERN & advanced **NLP pipelines** with LangChain
 
-## ⚡ What I Create
-- **Pixel-Perfect Frontends**: Crafting seamless web apps with **React.js**, **React Router**, **Tailwind CSS**, **Formik**, and **AG-Grid** for delightful user experiences
-- **Smart AI Systems**: Engineering **Python**-powered solutions with **Scikit-learn**, **spaCy**, **Keras**, and **NLTK** for tasks like sentiment analysis and recommendation engines
-- **API Magic**: Building dynamic apps with **Axios**, **Node.js**, and **Express.js** for smooth data flows
-- **Data Storytelling**: Uncovering hidden trends with **Pandas**, **Seaborn**, and **Matplotlib** to drive smart decisions
+---
 
-## 🛸 Stellar Projects
-- **Resume Screening System** 🌟: A **Python** and **spaCy**-powered ML tool that smartly classifies resumes using **TF-IDF** and **Random Forest**
-- **Movie Suggester** 🎬: A content-based recommendation engine using **NLTK** and **cosine similarity** to serve up personalized movie picks
-- **AI-Powered Travel Assistant** ✈️: A vibrant web app with **Google Gemini API**, delivering tailored travel plans with a sleek **React.js** frontend
-- **The Musica** 🎶: A modern music player app with playlist magic and a polished UI, built for music lovers
+## 🔧 Tech Stack
 
-## 🌈 Why I Code
-I believe technology can transform lives, spark joy, and solve problems. Whether it’s designing a stunning UI or training a neural network, I’m all about creating solutions that leave a mark. When I’m not coding, you’ll find me exploring new tech trends, sipping coffee, or dreaming up my next big project!
+<details>
+<summary>Frontend</summary>
 
-## 📡 Let’s Connect!
-Got an idea for a game-changing project? Want to geek out over code or AI? I’m all ears (or rather, all pixels)! Reach out:
+- **Languages & Tools:** JavaScript (ES6+), HTML5, CSS3, SQL  
+- **Frameworks & UI:** React.js, Tailwind CSS, Formik & Yup, React Router, AG-Grid  
+- **State & Data:** Axios, jsPDF, Containerization (Docker), Git, Azure  
+- **Best Practices:** Responsive & Mobile-First Design, Performance Tuning, Component Optimization  
+</details>
 
-- 📧 Email: [aashishkandel90@gmail.com](mailto:aashishkandel90@gmail.com)
-- 🌐 Website: [aashish47.com.np](https://aashish47.com.np)
-- 🔗 LinkedIn: [aashish-kandel47](https://linkedin.com/in/aashish-kandel47)
+<details>
+<summary>Machine Learning & Data</summary>
 
-Thanks for orbiting through my corner of the internet! Let’s build something out-of-this-world together! 🚀
+- **Languages & Libraries:** Python, Numpy, Pandas, Scikit-Learn, PyTorch, TensorFlow (Keras), Seaborn, Matplotlib  
+- **NLP & Pipelines:** spaCy, NLTK, TF-IDF, LangChain, Flask  
+- **Algorithms & Models:** Regression, Classification, Neural Networks, Content-Based & Churn Prediction, Sentiment Analysis  
+- **Deployment & Infra:** Docker, REST APIs, Cloud (Azure)  
+</details>
 
-![Coding is my superpower](https://img.shields.io/badge/Code-Frontend%20%26%20AI-blueviolet) ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+---
+
+## 💼 Professional Experience
+
+### Frontend Development Intern  · Feb 2025 – May 2025
+- Built dynamic, responsive pages in **React.js** & **Tailwind CSS**  
+- Implemented **React Router** for seamless multi-page navigation  
+- Created complex forms with **Formik** & **Yup**, ensured robust validation  
+- Integrated **AG-Grid** for interactive data tables (sorting, filtering, pagination)  
+- Added PDF export via **jsPDF**, delivering on-demand reports  
+- Engineered search-suggestion feature for an admin jewellery panel, boosting UX & lookup speed  
+- Consumed RESTful APIs with **Axios**, handling async data, errors, and state
+
+---
+
+## 🎓 Education & Certifications
+
+- **BSc. Computer Science & IT**  
+  Lumbini ICT Campus · 2021–2025 · Final semester CGPA: 3.20/4  
+- **+2 Science (NEB)**  
+  Step By Step English Sec. School · CGPA: 3.15/4  
+- **SEE (NEB)**  
+  Valmiki Shikshya Sadan · CGPA: 3.45/4  
+
+---
+
+## 📫 How to Reach Me
+
+- 🌐 [Website](https://aashish47.com.np)  
+- 🔗 [LinkedIn](https://linkedin.com/in/aashish-kandel47)  
+- 📧 aashishkandel90@gmail.com  
+- 📱 +977 98633 77252  
+
+---
+
+> ⚡ _“Keep learning, keep building!”_
+
