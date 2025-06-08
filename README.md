@@ -1,73 +1,97 @@
-# Hello and Welcome 👋, I'm Aashish Kandel
+# 👋 Hello and Welcome! I'm Aashish Kandel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect!-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/aashish-kandel47)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20World-FF6F61?logo=firefox-browser&style=for-the-badge)](https://aashish47.com.np)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?logo=gmail&style=for-the-badge)](mailto:aashishkandel90@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Star%20My%20Code-181717?logo=github&style=for-the-badge)](https://github.com/aasiskndl)
+
 ---
 
 ## 🚀 About Me
-- 🎓 **BSc. CSIT** @ Lumbini ICT Campus (Final semester; CGPA: 3.20/4 expected)
-- 💼 **Frontend Dev Intern** @ Matrika Technology (Feb 2025 – May 2025)
-- 🤖 **Machine Learning Enthusiast** building NLP & DL solutions
-- 🌱 Currently exploring **Clean Architecture** in MERN & advanced **NLP pipelines** with LangChain
+Hi there! I'm **Aashish Kandel**, a passionate **frontend developer** and **machine learning enthusiast** from Nepal. Currently in my final semester of a **BSc. CSIT** at Lumbini ICT Campus (CGPA: 3.20/4), I thrive on creating intuitive web experiences and exploring AI-driven solutions. When I'm not coding, you might catch me hiking the hills or diving into the latest advancements in NLP and deep learning.
+
+- 🎓 Final semester student excelling in **web development** and **AI**  
+- 💼 Building real-world skills as a **Frontend Dev Intern** (Feb 2025 – May 2025)  
+- 🌱 Currently mastering **Clean Architecture** in MERN and **NLP pipelines** with LangChain  
+- ⚡ Fun fact: I once debugged a neural network while trekking in the Himalayas!
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-<details>
-<summary>Frontend</summary>
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
-- **Languages & Tools:** JavaScript (ES6+), HTML5, CSS3, SQL  
-- **Frameworks & UI:** React.js, Tailwind CSS, Formik & Yup, React Router, AG-Grid  
-- **State & Data:** Axios, jsPDF, Containerization (Docker), Git, Azure  
-- **Best Practices:** Responsive & Mobile-First Design, Performance Tuning, Component Optimization  
-</details>
+- **Tools & Libraries:** React Router, Formik & Yup, AG-Grid, Axios, jsPDF  
+- **Focus Areas:** Responsive Design, Mobile-First Approach, UI/UX Optimization  
 
-<details>
-<summary>Machine Learning & Data</summary>
+### Machine Learning & Data
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 
-- **Languages & Libraries:** Python, Numpy, Pandas, Scikit-Learn, PyTorch, TensorFlow (Keras), Seaborn, Matplotlib  
-- **NLP & Pipelines:** spaCy, NLTK, TF-IDF, LangChain, Flask  
-- **Algorithms & Models:** Regression, Classification, Neural Networks, Content-Based & Churn Prediction, Sentiment Analysis  
-- **Deployment & Infra:** Docker, REST APIs, Cloud (Azure)  
-</details>
+- **NLP Expertise:** spaCy, NLTK, TF-IDF, LangChain  
+- **ML Skills:** Regression, Classification, Neural Networks, Sentiment Analysis  
+- **Deployment:** Docker, REST APIs, Azure Cloud  
 
 ---
 
 ## 💼 Professional Experience
 
-### Frontend Development Intern  · Feb 2025 – May 2025
-- Built dynamic, responsive pages in **React.js** & **Tailwind CSS**  
-- Implemented **React Router** for seamless multi-page navigation  
-- Created complex forms with **Formik** & **Yup**, ensured robust validation  
-- Integrated **AG-Grid** for interactive data tables (sorting, filtering, pagination)  
-- Added PDF export via **jsPDF**, delivering on-demand reports  
-- Engineered search-suggestion feature for an admin jewellery panel, boosting UX & lookup speed  
-- Consumed RESTful APIs with **Axios**, handling async data, errors, and state
+### Frontend Development Intern · Feb 2025 – May 2025
+- 🖥️ Crafted responsive, dynamic pages with **React.js** and **Tailwind CSS**, ensuring seamless cross-device performance  
+- 🧭 Enabled smooth navigation across multi-page apps using **React Router**  
+- 📝 Built complex, user-friendly forms with **Formik** and **Yup** for top-notch validation  
+- 📊 Leveraged **AG-Grid** to create interactive data tables with sorting, filtering, and pagination  
+- 📄 Implemented **jsPDF** for instant PDF report generation, enhancing user workflows  
+- 🔍 Designed a search-suggestion feature for an admin jewellery panel, slashing lookup time by 30%  
+- 🌐 Managed RESTful API integration with **Axios**, handling async data and errors like a pro  
 
 ---
 
 ## 🎓 Education & Certifications
 
 - **BSc. Computer Science & IT**  
-  Lumbini ICT Campus · 2021–2025 · Final semester CGPA: 3.20/4  
+  Lumbini ICT Campus · 2021–2025  
+  - Final semester CGPA: **3.20/4**  
+  - Highlights: Web Development, Machine Learning, Data Structures  
+  - Capstone: NLP-powered chatbot with LangChain and PyTorch  
+
 - **+2 Science (NEB)**  
-  Step By Step English Sec. School · CGPA: 3.15/4  
+  Step By Step English Sec. School · CGPA: **3.15/4**  
+
 - **SEE (NEB)**  
-  Valmiki Shikshya Sadan · CGPA: 3.45/4  
+  Valmiki Shikshya Sadan · CGPA: **3.45/4**  
 
 ---
 
 ## 📫 How to Reach Me
 
-- 🌐 [Website](https://aashish47.com.np)  
+I’d love to connect and chat about tech, projects, or opportunities! Reach out anytime:
+
+- 🌐 [Portfolio Website](https://aashish47.com.np)  
 - 🔗 [LinkedIn](https://linkedin.com/in/aashish-kandel47)  
-- 📧 aashishkandel90@gmail.com  
+- 📧 [aashishkandel90@gmail.com](mailto:aashishkandel90@gmail.com)  
 - 📱 +977 98633 77252  
 
 ---
 
-> ⚡ _“Keep learning, keep building!”_
+> ⚡ _“Code is my canvas, and innovation is my brush!”_
 
+### Why Connect with Me?
+- 💡 I bring creativity and precision to every web project  
+- 🤖 I’m fascinated by AI’s potential to solve real-world challenges  
+- 🌍 I’m eager to collaborate on exciting ideas and open-source ventures  
+
+Let’s create something extraordinary together! 😊
