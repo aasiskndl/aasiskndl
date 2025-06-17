@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 About Me
-Hi there! I'm **Aashish Kandel**, a passionate **frontend developer** and **machine learning enthusiast** from Nepal. Currently in my final semester of a **BSc. CSIT** at Lumbini ICT Campus (CGPA: 3.20/4), I thrive on creating intuitive web experiences and exploring AI-driven solutions. When I'm not coding, you might catch me hiking the hills or diving into the latest advancements in NLP and deep learning.
+Hi there! I'm **Aashish Kandel**, a passionate **frontend developer** and **machine learning enthusiast** from Nepal. Currently in my final semester of a **BSc. CSIT** at Lumbini ICT Campus, I thrive on creating intuitive web experiences and exploring AI-driven solutions. When I'm not coding, you might catch me hiking the hills or diving into the latest advancements in NLP and deep learning.
 
 - 🎓 Final semester student excelling in **web development** and **AI**  
-- 💼 Building real-world skills as a **Frontend Dev Intern** (Feb 2025 – May 2025)  
+- 💼 Building real-world skills as a **Frontend Dev** 
 - 🌱 Currently mastering **Clean Architecture** in MERN and **NLP pipelines** with LangChain  
 - ⚡ Fun fact: I once debugged a neural network while trekking in the Himalayas!
 
@@ -49,14 +49,16 @@ Hi there! I'm **Aashish Kandel**, a passionate **frontend developer** and **mach
 
 ## 💼 Professional Experience
 
-### Frontend Development Intern · Feb 2025 – May 2025
-- 🖥️ Crafted responsive, dynamic pages with **React.js** and **Tailwind CSS**, ensuring seamless cross-device performance  
-- 🧭 Enabled smooth navigation across multi-page apps using **React Router**  
-- 📝 Built complex, user-friendly forms with **Formik** and **Yup** for top-notch validation  
-- 📊 Leveraged **AG-Grid** to create interactive data tables with sorting, filtering, and pagination  
-- 📄 Implemented **jsPDF** for instant PDF report generation, enhancing user workflows  
-- 🔍 Designed a search-suggestion feature for an admin jewellery panel, slashing lookup time by 30%  
-- 🌐 Managed RESTful API integration with **Axios**, handling async data and errors like a pro  
+### Frontend Development  
+- ⚡ Optimized component performance using **React.memo**, **lazy loading**, and **code splitting**, resulting in faster page loads  
+- 🎨 Enhanced UI interactivity and engagement with **Framer Motion**, bringing interfaces to life  
+- 🧩 Developed reusable, modular components to maintain a clean and scalable project architecture  
+- ♿ Improved accessibility using proper **ARIA roles**, keyboard navigation, and screen-reader compatibility  
+- 🛠️ Debugged efficiently using **React DevTools**, and browser network tools for real-time issue tracking  
+- 📦 Collaborated on GitHub using **branching strategies**, **pull requests**, and **code reviews** to maintain code quality  
+- 🧠 Tackled real-world challenges on **Frontend Mentor** to sharpen problem-solving and UI-building skills  
+- 🌱 Actively learning **Node.js** to build high-performance, scalable full-stack applications  
+- ✨ Passionate about clean design and crafting seamless, user-centered interfaces with meaningful microinteractions  
 
 ---
 
