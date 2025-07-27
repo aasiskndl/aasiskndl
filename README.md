@@ -8,13 +8,7 @@
 ---
 
 ## 🚀 About Me
-Hi there! I'm **Aashish Kandel**, a passionate **frontend developer** and **machine learning enthusiast** from Nepal. Currently in my final semester of a **BSc. CSIT** at Lumbini ICT Campus, I thrive on creating intuitive web experiences and exploring AI-driven solutions. When I'm not coding, you might catch me hiking the hills or diving into the latest advancements in NLP and deep learning.
-
-- 🎓 Final semester student excelling in **web development** and **AI**  
-- 💼 Building real-world skills as a **Frontend Dev** 
-- 🌱 Currently mastering **Clean Architecture** in MERN and **NLP pipelines** with LangChain  
-- ⚡ Fun fact: I once debugged a neural network while trekking in the Himalayas!
-
+Hi there! I'm **Aashish Kandel**, I thrive on creating intuitive web experiences and exploring AI-driven solutions. When I'm not coding, you might catch me hiking the hills or diving into the latest advancements in NLP and deep learning.
 ---
 
 ## 🛠️ Tech Stack
@@ -69,13 +63,6 @@ Hi there! I'm **Aashish Kandel**, a passionate **frontend developer** and **mach
   - Final semester CGPA: **3.20/4**  
   - Highlights: Web Development, Machine Learning, Data Structures  
   - Capstone: NLP-powered chatbot with LangChain and PyTorch  
-
-- **+2 Science (NEB)**  
-  Step By Step English Sec. School · CGPA: **3.15/4**  
-
-- **SEE (NEB)**  
-  Valmiki Shikshya Sadan · CGPA: **3.45/4**  
-
 ---
 
 ## 📫 How to Reach Me
