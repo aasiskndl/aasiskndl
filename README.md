@@ -45,19 +45,17 @@ Hi there! I'm **Aashish Kandel**, and I thrive on creating intuitive web experie
 
 ## 💼 Professional Experience
 
-### Frontend Development  
-- ⚡ Optimized component performance using **React.memo**, **lazy loading**, and **code splitting**, resulting in faster page loads  
-- 🎨 Enhanced UI interactivity and engagement with **Framer Motion**, bringing interfaces to life  
-- 🧩 Developed reusable, modular components to maintain a clean and scalable project architecture  
-- ♿ Improved accessibility using proper **ARIA roles**, keyboard navigation, and screen-reader compatibility  
-- 🛠️ Debugged efficiently using **React DevTools**, and browser network tools for real-time issue tracking  
-- 📦 Collaborated on GitHub using **branching strategies**, **pull requests**, and **code reviews** to maintain code quality  
-- 🧠 Tackled real-world challenges on **Frontend Mentor** to sharpen problem-solving and UI-building skills  
-- 🌱 Actively learning **Node.js** to build high-performance, scalable full-stack applications  
-- ✨ Passionate about clean design and crafting seamless, user-centered interfaces with meaningful microinteractions  
+### Frontend Development   
+- 🎨 Brought innovatve ideas to life 
+- 🧩 Built clean, modular, and reusable React components  
+- 🛠️ Debugged efficiently using **React DevTools** and network tools  
+- 📦 Collaborated via **GitHub**, using PRs and code reviews  
+- ⚡ Boosted performance using **React.memo**, lazy loading & code splitting  
+- 🌱 Learning **Node.js** to grow as a full-stack developer  
+- ✨ Love crafting clean, user-centered designs with microinteractions  
 
 ---
-
+<!--
 ## 🎓 Education & Certifications
 
 - **BSc. Computer Science & IT**  
@@ -66,6 +64,7 @@ Hi there! I'm **Aashish Kandel**, and I thrive on creating intuitive web experie
   - Highlights: Web Development, Machine Learning, Data Structures  
   - Capstone: NLP-powered chatbot with LangChain and PyTorch  
 ---
+-->
 
 ## 📫 How to Reach Me
 
@@ -74,16 +73,16 @@ I’d love to connect and chat about tech, projects, or opportunities! Reach out
 - 🌐 [Portfolio Website](https://aashish47.com.np)  
 - 🔗 [LinkedIn](https://linkedin.com/in/aashish-kandel47)  
 - 📧 [aashishkandel90@gmail.com](mailto:aashishkandel90@gmail.com)  
-- 📱 +977 98633 77252  
 
 ---
 
 > ⚡ _“Code is my canvas, and innovation is my brush!”_
 
-<--
+<!--
 ### Why Connect with Me?
 - 💡 I bring creativity and precision to every web project  
 - 🤖 I’m fascinated by AI’s potential to solve real-world challenges  
 - 🌍 I’m eager to collaborate on exciting ideas and open-source ventures  
 -->
+
 Let's collaborate to build something exceptional. 😊
