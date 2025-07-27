@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
----
+
 Hi there! I'm **Aashish Kandel**, I thrive on creating intuitive web experiences and exploring AI-driven solutions. When I'm not coding, you might catch me hiking the hills or diving into the latest advancements in NLP and deep learning.
 ---
 
