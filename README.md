@@ -80,9 +80,10 @@ I’d love to connect and chat about tech, projects, or opportunities! Reach out
 
 > ⚡ _“Code is my canvas, and innovation is my brush!”_
 
+<--
 ### Why Connect with Me?
 - 💡 I bring creativity and precision to every web project  
 - 🤖 I’m fascinated by AI’s potential to solve real-world challenges  
 - 🌍 I’m eager to collaborate on exciting ideas and open-source ventures  
-
-Let’s create something extraordinary together! 😊
+-->
+Let's collaborate to build something exceptional. 😊
