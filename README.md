@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
-- **Frontend Development:** JavaScript (ES6+), React.js, Next.js, Tailwind CSS, Stream-lit
+- **Frontend Development:** JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, Stream-lit
 - **Backend Development:** Node.js, Express.js, Flask
 - **Database:** MySQL, MongoDB
 - **Focus Areas:** Responsive Design, Mobile-First Approach, UI/UX Optimization  
