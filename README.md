@@ -1,20 +1,19 @@
 # 👋 Hello and Welcome! I'm Aashish Kandel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aashish-kandel47)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20World-FF6F61?logo=firefox-browser&style=for-the-badge)](https://aashish47.com.np)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-D14836?logo=gmail&style=for-the-badge)](mailto:aashishkandel90@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Star%20My%20Code-181717?logo=github&style=for-the-badge)](https://github.com/aasiskndl)
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm **Aashish Kandel**, and I thrive on creating intuitive web experiences and exploring AI-driven solutions. When I'm not coding, you might catch me hiking the hills or diving into the latest advancements in NLP and deep learning.
+👋  Hi there!  I'm **Aashish Kandel**, a software developer who likes to make websites that are easy to use and intuitive.  My toolkit is primarily focused on front-end development, but I can easily delve into back-end systems as well.  What truly excites me, though, is the nexus between code and intelligence.  Being a big fan of artificial intelligence, I'm constantly learning about the most recent advancements in natural language processing and deep learning.  When I'm not on the keyboard, you can find me resting on a trail along the hillside.  I'm always interested in discussing new projects, technology, or a good hiking location!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Software Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
@@ -24,7 +23,9 @@ Hi there! I'm **Aashish Kandel**, and I thrive on creating intuitive web experie
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 
-- **Tools & Libraries:** React Router, Formik & Yup, AG-Grid, Axios, jsPDF  
+- **Frontend Development:** JavaScript (ES6+), React.js, Next.js, Tailwind CSS, Stream-lit
+- **Backend Development:** Node.js, Express.js, Flask
+- **Database:** MySQL, MongoDB
 - **Focus Areas:** Responsive Design, Mobile-First Approach, UI/UX Optimization  
 
 ### Machine Learning & Data
@@ -36,12 +37,12 @@ Hi there! I'm **Aashish Kandel**, and I thrive on creating intuitive web experie
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 
-- **NLP Expertise:** spaCy, NLTK, TF-IDF, LangChain  
+- **NLP Expertise:** spaCy, NLTK, TF-IDF, LangChain , LangGraph, LangSmith
 - **ML Skills:** Regression, Classification, Neural Networks, Sentiment Analysis  
-- **Deployment:** Docker, REST APIs, Azure Cloud  
+- **Deployment:** Docker, Azure Cloud , Git, CI/CD
 
 ---
-
+<!--
 ## 💼 Professional Experience
 
 ### Frontend Development   
@@ -54,16 +55,13 @@ Hi there! I'm **Aashish Kandel**, and I thrive on creating intuitive web experie
 - ✨ Love crafting clean, user-centered designs with microinteractions  
 
 ---
-<!--
-## 🎓 Education & Certifications
-
-- **BSc. Computer Science & IT**  
-  Lumbini ICT Campus · 2021–2025  
-  - Final semester CGPA: **3.20/4**  
-  - Highlights: Web Development, Machine Learning, Data Structures  
-  - Capstone: NLP-powered chatbot with LangChain and PyTorch  
----
 -->
+## 🎓 Education
+**BSc. Computer Science & IT**
+- **Tribhuwan University** | 2021 – 2025
+-  **CGPA:** *3.0/4.0*
+---
+
 
 ## 📫 How to Reach Me
 
