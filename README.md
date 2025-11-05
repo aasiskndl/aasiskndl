@@ -1,7 +1,6 @@
 # 👋 Hello and Welcome! I'm Aashish Kandel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aashish-kandel47)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20World-FF6F61?logo=firefox-browser&style=for-the-badge)](https://aashish47.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-Star%20My%20Code-181717?logo=github&style=for-the-badge)](https://github.com/aasiskndl)
 
 ---
 
@@ -74,12 +73,5 @@ I’d love to connect and chat about tech, projects, or opportunities! Reach out
 ---
 
 > ⚡ _“Code is my canvas, and innovation is my brush!”_
-
-<!--
-### Why Connect with Me?
-- 💡 I bring creativity and precision to every web project  
-- 🤖 I’m fascinated by AI’s potential to solve real-world challenges  
-- 🌍 I’m eager to collaborate on exciting ideas and open-source ventures  
--->
 
 Let's collaborate to build something exceptional. 😊
