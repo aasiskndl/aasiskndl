@@ -8,7 +8,7 @@
 
 👋  Hi there!  I'm **Aashish Kandel**, a software developer who likes to make websites that are easy to use and intuitive.  My toolkit is primarily focused on front-end development, but I can easily delve into back-end systems as well.  What truly excites me, though, is the nexus between code and intelligence.  Being a big fan of artificial intelligence, I'm constantly learning about the most recent advancements in natural language processing and deep learning.  When I'm not on the keyboard, you can find me resting on a trail along the hillside.  I'm always interested in discussing new projects, technology, or a good hiking location!
 
----
+--- 
 
 ## 🛠️ Tech Stack
 
