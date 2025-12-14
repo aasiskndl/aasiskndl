@@ -57,7 +57,7 @@
 -->
 ## 🎓 Education
 **BSc. Computer Science & IT**
-- **Tribhuwan University** | 2021 – 2025
+- **Tribhuwan University** | 2021 – 2024
 -  **CGPA:** *3.0/4.0*
 ---
 
